@@ -1,0 +1,51 @@
+JeeUtil JavaScript Library :: Developer's Choice...
+
+
+ju library
+==========
+ju js library is bundled from various ju plugin's together. In nature it gets updated while new/enhancement/bug fixed in ju plugin's.
+
+***** Moved from own SVN repository to GitHub Open source respository *****
+
+
+v1.5 on 30th July, 2009
+------------------------------------
+juDateTime v1.1 plugin
+Description: Improved as per ISO 8601, the International Standard for the representation of dates and times.
+
+juDoc v1.1 plugin
+Description: Certain class & methods refactored and few api has been deprecated.
+
+
+v1.4 on 28th April, 2009
+-------------------------------------
+Description: juShortcut v1.0 has released.
+
+
+v1.3 on 14th Feb, 2009
+-----------------------------------
+juDragdrop v1.0 plugin has been released.
+Description: Certain class has been deprecated, library stablity and OOP implementation refined.
+Plugins undergone this phase: juCore v1.0, juBrowser v1.2, juDoc v1.0
+
+
+v1.2 on 22nd Nov, 2008
+-----------------------------------
+juBrowser v1.2 plugin
+Description: Google Chrome Browser detection implemented.
+
+
+v1.1 on 9th June, 2008
+-----------------------------------
+juBrowser v1.1 plugin bug has fixed
+Bug Description : browser activex detection given wrong result in IE 6.0
+
+
+v1.0 on 18th April, 2008
+-------------------------------------
+Initial public version has released in the enchanting open source world.
+
+
+Kindly make use of it! and let me know your suggestions and thoughts. 
+
+~ www.myjeeva.com/jeeutil-js-library ~
