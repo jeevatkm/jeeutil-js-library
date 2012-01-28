@@ -5,6 +5,7 @@ ju library
 ==========
 ju js library is bundled from various ju plugin's together. In nature it gets updated while new/enhancement/bug fixed in ju plugin's.
 
+Note: you will find YUI compressed minified files under "minified" directory
 ***** Moved from own SVN repository to GitHub Open source respository *****
 
 
