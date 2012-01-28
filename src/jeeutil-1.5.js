@@ -35,7 +35,7 @@ var ju = new Object();
 nua = navigator.userAgent.toLowerCase();
 
 Add(ju, {
-	ver: '1.0.0',	
+	ver: '1.0',	
 	
 	ratio: '100.0',
 	
@@ -525,7 +525,7 @@ ju.browser = new Object();
 })();
 
 Add(ju.browser, {
-	ver: '1.0.1',
+	ver: '1.1',
 
 	name: function(intval){
 		if(ie && !maxthon && !aol){						
@@ -967,7 +967,7 @@ Add(ju.browser, {
   ju.shortcut = new Object();
 
 Add(ju.shortcut, {
-	ver: '1.0.0',
+	ver: '1.0',
 	
 	_shortcuts: {},
 	
@@ -1163,7 +1163,7 @@ Add(ju.shortcut, {
 ju.dragdrop = new Object();
 
 Add(ju.dragdrop, {
-	ver: '1.0.0',
+	ver: '1.0',
 
 	_zIndex : 9999,
 	group : null,
@@ -1723,7 +1723,7 @@ ordinate.prototype.inside = function(northwest, southeast) {
 ju.doc = new Object();
 
 Add(ju.doc, {
-	ver: '1.0.0',
+	ver: '1.0',
 
 	setValue: function(ele, val){		
 		if(!ele || !val) return false;	
